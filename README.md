@@ -17,7 +17,7 @@
 
 - 💻 **I'm open to new opportunities**
 
-- 💬 Ask me about anything [here](https://github.com/jheart-vic/jheart-vic/issues)
+- 💬 Ask me about anything [here](https://github.com/ifeanyins/ifeanyins/pulls)
 
 
 
@@ -34,8 +34,8 @@
 
 <h2>Let's connect...</h2>
 <ul>
-<h3><a href="https://twitter.com/ifeanyins" target="_blank"><img src="https://user-images.githubusercontent.com/79658534/150798648-38f1ed89-848c-4e24-9395-c748b2adeff7.png" width="17px">@Ifeanyinst</a></h3> 
-<h3><a href="mailto:ifeanyi_ns@icloud.com"><img src="https://user-images.githubusercontent.com/79658534/155697385-9f83bc34-bd2a-4338-9394-c83ee8be9896.png" width="16px">ifeanyi_ns@icloudl.com</a></h3>
+<h3><a href="https://twitter.com/ifeanyins" target="_blank"><img src="https://user-images.githubusercontent.com/79658534/150798648-38f1ed89-848c-4e24-9395-c748b2adeff7.png" width="17px">@Ifeanyins</a></h3> 
+<h3><a href="mailto:ifeanyi_ns@icloud.com"><img src="https://user-images.githubusercontent.com/79658534/155697385-9f83bc34-bd2a-4338-9394-c83ee8be9896.png" width="16px">ifeanyi_ns@icloud.com</a></h3>
 <h3><a href="www.https://www.linkedin.com/in/ifeanyins/"><img src="https://user-images.githubusercontent.com/79658534/155697061-56d45708-ad01-4ffc-9697-570007606fd3.png" width="18px">&ifeanyi-Nwafor</a></h3>
   
 <!-- [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Stanmega89)](https://github.com/gazf/github-readme-twitter) -->
@@ -43,5 +43,5 @@
 <br>
 <h3 align="center"> 
   Visitor count<br><br>
-  <img src="https://profile-counter.glitch.me/jheart-vic/count.svg" />
+  <img src="https://profile-counter.glitch.me/ifeanyins/count.svg" />
 </h3>

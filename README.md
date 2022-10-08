@@ -3,7 +3,7 @@
 
 <br />
 
-    I'm currently a software development student at Microverse, a Multicultural Full-stack development school. 
+    I'm currently a software development student at Andela, a Multicultural Full-stack development school. 
 
 **About me**
 
@@ -22,12 +22,12 @@
 
 
 ![Hello, ifeanyi_ns](https://user-images.githubusercontent.com/79658534/165603232-c6ba5f1b-4dc0-48be-8eb5-e360a5855d55.png)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jheart-vic&show_icons=true&title_color=ff1493&icon_color=9457eb&text_color=0CFFD2&bg_color=05061D&border_color=ff1493)](https://github.com/anuraghazra/github-readme-stats)        [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jheart-vic&ring=ff1493&sideNums=ff1493&stroke=0CFFD2&border=ff1493&background=05061d&sideLabels=0cffd2&dates=9457eb&fire=9457eb&currStreakLabel=0cffd2&currStreakNum=0cffd2&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifeanyi-ns&show_icons=true&title_color=ff1493&icon_color=9457eb&text_color=0CFFD2&bg_color=05061D&border_color=ff1493)](https://github.com/anuraghazra/github-readme-stats)        [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ifeanyi-ns&ring=ff1493&sideNums=ff1493&stroke=0CFFD2&border=ff1493&background=05061d&sideLabels=0cffd2&dates=9457eb&fire=9457eb&currStreakLabel=0cffd2&currStreakNum=0cffd2&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <br>
 <br>
 
-| </a> | <a href="https://github.com/ifeanyins/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheart-vic&layout=compact&theme=buefy&hide_border=true" /></a> |
+| </a> | <a href="https://github.com/ifeanyins/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeanyi-ns&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br />
